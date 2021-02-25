@@ -15,8 +15,3 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 # Visit My Slides
 
 here: https://joinlaw.github.io/github-slideshow/
-
-
-# Visit My Slides
-
-here: https://joinlaw.github.io/github-slideshow/
