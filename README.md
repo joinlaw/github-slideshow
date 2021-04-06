@@ -17,3 +17,5 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 here: https://joinlaw.github.io/github-slideshow/
 
 Oh! I haven't introduced myself...
+
+![Gem File](https://github.com/joinlaw/github-slideshow/blob/main/Gemfile)
